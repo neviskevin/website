@@ -1,0 +1,175 @@
+.App {
+  background-color: #e9dcc9;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+
+  align-items: left;
+  justify-content: left;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.button:hover {
+  width:50;
+  text-decoration: 'none';
+  background-color:#d3844b5d;
+  font-weight: bold;
+  font-size: 16px;
+  color: #6e4528;
+}
+
+.button {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  width: 151px !important;
+  text-align: center;
+  padding-right: 0;
+  padding-left: 0;
+  padding: 14px 20px;
+  background-color:#d7c3c3;
+  transition: 0.7s;
+  font-weight: normal;
+  font-size: 16px;
+  color: #875531;
+}
+
+.button2:hover {
+  padding-top: 0;
+  padding-bottom:0;
+  transition: 0.2s;
+  padding-left: 13;
+  padding-right: 13;
+  padding: 18px 28px;
+  background-color:#6d6e80;  text-decoration: 'none';
+  border:'0px solid #3020C5';
+  font-weight: normal;
+  border-radius:18px;
+  font-size: 16px;
+  color: #C8C8C8;
+}
+
+.aboutbutton {
+  padding-top: 0;
+  padding-bottom:0;
+  padding-left: 13;
+  padding-right: 13;
+  padding: 18px 28px;
+  background-color:#6d6e80b9;
+  transition: 0.7s;
+  border:'0px solid #FFFFFF';
+  font-weight: normal;
+  border-radius:7px;
+  font-size: 16px;
+  color: white;
+}
+
+.button2 {
+  width: 169px !important;
+  text-align: center;
+  padding-right: 0;
+  padding-left: 0;
+  padding: 14px 20px;
+  background-color:#d7c3c3;
+  transition: 0.7s;
+  font-weight: normal;
+  font-size: 16px;
+  color: #875531;
+}
+
+.bold {
+  font-weight: bolder;
+  color:#5d5a5a;
+}
+
+.thin {
+  font-weight: 100;
+  color:#7a7979;
+}
+
+.badge{
+  margin: auto;
+  width: 400px;
+  height: auto
+}
+.badge:hover{
+  margin: auto;
+  background-color: rgba(49, 29, 29, 0.686);
+  border-radius: 3px;
+}
+
+.page{
+  text-align: center
+}
+#container {
+  display: flex;
+  align-items: top;
+}
+
+#container p {
+  margin-left: 1em;
+}
