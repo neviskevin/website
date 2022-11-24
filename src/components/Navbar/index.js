@@ -14,12 +14,6 @@ const Navbar = () => {
             </button>
           </NavLink>
 
-          <NavLink to="/Capstone" activeStyle>
-          <button class="button">
-            Capstone
-            </button>
-          </NavLink>
-
           <NavLink to="/Infernoguard" activeStyle>
             <button class="button">
             Infernoguard
@@ -29,6 +23,12 @@ const Navbar = () => {
           <NavLink to="/Index" activeStyle>
           <button class="button">
             PA Index
+            </button>
+          </NavLink>
+
+          <NavLink to="/Capstone" activeStyle>
+          <button class="button">
+            Capstone
             </button>
           </NavLink>
 

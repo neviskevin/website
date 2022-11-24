@@ -168,8 +168,26 @@
 #container {
   display: flex;
   align-items: top;
+
 }
 
-#container p {
-  margin-left: 1em;
+#infernoguard {
+  display: flex;
+  align-items: top;
+  background-color:"#DDDDDD"
+}
+
+
+#infernoguard2 {
+  display: flex;
+  align-items: top;
+  margin-left: 0px !important;
+  margin-right: 0px !important;
+}
+
+.gif{
+  width:100%;
+  padding-bottom: 10px;
+  border:'4px solid #DDDDDD';
+  border-radius:7px;
 }
