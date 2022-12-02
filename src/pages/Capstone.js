@@ -7,7 +7,7 @@ const Capstone = () => {
       <div id="container">
         <embed src="capstone.pdf" width="1100px" height="500px" />
         <div style={{paddingTop:'25px',paddingRight:'25px',paddingLeft:'25px', backgroundColor: 'white', width:"800px"}}>
-        If PDF doesnt show reload page.
+        If PDF doesnt show reload from the 'About Me' page.
         <br></br><br></br>
         My sophomore (spring) to junior (fall), I completed my capstone project, lead by an electrical systems expert and machine learning professor. We were tasked with evaluating the risk of renewable energy implementation into the NYISO grid based on temporal and spacial data. On the left is the final presentation slides we presented in the beginning of 2021.
         <br></br><br></br>
